@@ -37,7 +37,7 @@ import za.ac.sun.cs.green.util.SetTaskManagerTest;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
-    SimplificationConstantPropagationTest.class
+    SimplePropagationTest.class
 })
 
 public class EntireSuite {
